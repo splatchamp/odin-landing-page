@@ -1,0 +1,27 @@
+html {
+    background-color: #1F2937;
+}
+
+body {
+    padding: 0 100px;
+    color: white;
+}
+
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+}
+
+.headerlinks {
+    display: flex;
+    padding-right: 100px;
+}
+
+.headerlink {
+    padding: 0 16px;
+}
+
+.header {
+    margin: 0px;
+}
