@@ -1,1 +1,1 @@
-# odin_landing_page
+Monkey image: clput_design (freepik)
